@@ -59,7 +59,7 @@ const [tryCount,SetTryCount]=useState(3)
                           value={username}
                           onChange={onUsernameChange} />
                   </div>
-                  <div className='.form-item'>
+                  <div className='form-item'>
                   
                       <label>Password</label>
                       <input
